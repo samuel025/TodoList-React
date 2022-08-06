@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# A Todo List made with React and Python(Django Rest Framework)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app connects to an api made with Django Rest Framework.
+This is the link to the repo for the api:
+    https://github.com/samuel025/Simple-TodoList-Api
 
 ## Available Scripts
+##  For Backend
+Make sure the api is running on http://localhost:3000](http://localhost:3000)
+
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
