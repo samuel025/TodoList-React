@@ -6,7 +6,7 @@ This is the link to the repo for the api:
 
 ## Available Scripts
 ##  For Backend
-Make sure the api is running on http://localhost:3000](http://localhost:3000)
+Make sure the api is running on http://localhost:8000](http://localhost:8000)
 
 
 In the project directory, you can run:
